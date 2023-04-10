@@ -296,3 +296,5 @@ If your cloud messaging api is not enabled then
 1. [Push Notification In React Native Using Firebase - Android & IOS Tutorial 2022](https://www.youtube.com/watch?v=Qcxa6dxfUFo)
 2. [React Native Firebase Official Docs](https://rnfirebase.io/)
 
+
+https://testfcm.com/ and make mock call

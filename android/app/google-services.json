@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385652072355",
+    "project_id": "testcare-e4909",
+    "storage_bucket": "testcare-e4909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385652072355:android:db716904754dee0d888416",
+        "android_client_info": {
+          "package_name": "com.simplefirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385652072355-7b9s46bvkcujmnmqjj138p33dih1iuog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDsdiY7BS4suf7Bb1OwWy1-jsn64yBkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385652072355-7b9s46bvkcujmnmqjj138p33dih1iuog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
